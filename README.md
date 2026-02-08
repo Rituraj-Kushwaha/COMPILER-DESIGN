@@ -28,6 +28,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
 
+  <img width="572" height="239" alt="image" src="https://github.com/user-attachments/assets/400531db-2fb2-4886-aaa4-8ae733f6d192" />
+
+
 
 ## Lab 4 - Elimation of Ambiguity, Left Recursion and Left Factoring
 
@@ -112,6 +115,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
 
