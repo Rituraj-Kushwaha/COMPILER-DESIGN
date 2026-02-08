@@ -47,6 +47,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Computes FIRST and FOLLOW sets for grammar symbols, which are essential for LL(1) parsing table construction.
 
 - Screenshot:
+
+  <img width="436" height="287" alt="image" src="https://github.com/user-attachments/assets/d4050b5c-d2be-49ea-ba66-fb1b81f94076" />
+
   
 
 ## Lab 6 - Predictive Parsing Table
@@ -118,6 +121,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
 
