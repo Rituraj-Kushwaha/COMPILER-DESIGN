@@ -77,6 +77,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Computes LEADING and TRAILING sets for operators and terminals, useful in operator-precedence parsing.
 
 - Screenshot:
+
+  <img width="462" height="288" alt="image" src="https://github.com/user-attachments/assets/abaf1081-dffb-4ad9-8e8f-51464c0fab5e" />
+
  
 
 ## Lab 9 - Computation of LR (0) items
@@ -84,6 +87,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Constructs the canonical collection of LR(0) items and transitions used in LR parsing.
 
 - Screenshot:
+
+  <img width="379" height="787" alt="image" src="https://github.com/user-attachments/assets/c3218910-1bf2-415e-a0b8-c4e6ec94fe04" />
+
   
 
 ## Lab 10 - Intermediate code generation: Postfix, Prefix
@@ -91,6 +97,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Converts infix expressions into postfix and prefix forms as a basis for intermediate representation.
 
 - Screenshot:
+
+  <img width="376" height="85" alt="image" src="https://github.com/user-attachments/assets/19fa9275-a805-480b-987f-09eb6c4d0deb" />
+
  
 
 ## Lab 11 - Intermediate code generation: Quadruple, Triple, Indirect triple
@@ -98,6 +107,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Generates intermediate representations (quadruples, triples, and indirect triples) for expressions.
 
 - Screenshot:
+
+  <img width="345" height="332" alt="image" src="https://github.com/user-attachments/assets/b33eca45-0488-411b-bec5-b64e51916f85" />
+
   
 
 ## Lab 12 - A simple code Generator
@@ -105,6 +117,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Generates basic three-address code and simple target-like instructions from arithmetic expressions.
 
 - Screenshot:
+
+  <img width="400" height="338" alt="image" src="https://github.com/user-attachments/assets/097fdaab-1aed-414b-b130-e10b0b601cdd" />
+
   
 
 ## Lab 13 - Implementation of DAG
@@ -112,6 +127,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Builds a DAG for expressions to identify common subexpressions and enable optimization.
 
 - Screenshot:
+
+  <img width="401" height="85" alt="image" src="https://github.com/user-attachments/assets/d44a2dce-ae3a-4286-850e-5ba298603aea" />
+
   
 
 ## Lab 14 - Implementation of Global Data Flow Analysis
@@ -119,6 +137,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Performs a classic data flow analysis (e.g., reaching definitions) to compute IN/OUT sets for basic blocks.
 
 - Screenshot:
+
+  <img width="577" height="548" alt="image" src="https://github.com/user-attachments/assets/da5c72c2-9062-4b3e-9cf7-c4d3acb78b70" />
+
   
 
 ## Lab 15 - Implement any one storage allocation strategies (heap, stack, static)
@@ -126,7 +147,10 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Simulates a storage allocation strategy (here, heap first-fit) and shows how blocks are allocated and freed.
 
 - Screenshot:
-  
+
+  <img width="349" height="699" alt="image" src="https://github.com/user-attachments/assets/def35ef9-6132-4f5c-a7c5-f1367bbac6a0" />
+
+
 
 
 
