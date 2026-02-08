@@ -57,6 +57,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Builds an LL(1) predictive parsing table from a grammar using FIRST and FOLLOW sets.
 
 - Screenshot:
+
+  <img width="784" height="302" alt="image" src="https://github.com/user-attachments/assets/817c1d5d-36bd-484d-a2c5-91bff74c34c9" />
+
  
 
 ## Lab 7 - Shift Reduce Parsing
@@ -121,6 +124,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
 
