@@ -17,6 +17,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Builds a nondeterministic finite automaton (NFA) from a regular expression, typically using Thompson's construction, to represent pattern-matching behavior.
 
 - Screenshot:
+
+  <img width="335" height="524" alt="image" src="https://github.com/user-attachments/assets/bda24a18-4136-48ba-a07e-c2aa275bd3de" />
+
   
 
 ## Lab 3 - Conversion from NFA to DFA
@@ -109,5 +112,6 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
