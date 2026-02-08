@@ -67,6 +67,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Shows bottom-up parsing using shift and reduce actions to recognize valid strings in a grammar.
 
 - Screenshot:
+
+  <img width="544" height="373" alt="image" src="https://github.com/user-attachments/assets/368391a1-5a2f-4f1e-8d03-fce73716a0ec" />
+
  
 
 ## Lab 8 - Computation of LEADING AND TRAILING
@@ -124,6 +127,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
 
