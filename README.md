@@ -37,6 +37,9 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: Demonstrates grammar transformations to reduce ambiguity and make grammars suitable for predictive parsing by removing left recursion and applying left factoring.
 
 - Screenshot:
+
+  <img width="428" height="681" alt="image" src="https://github.com/user-attachments/assets/19482153-0ed3-49ca-9cfa-881c706bfa25" />
+
   
 
 ## Lab 5 - FIRST AND FOLLOW computation
@@ -115,6 +118,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
 
 
