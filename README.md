@@ -7,6 +7,7 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 - Description: A lexical analyzer (lexer) is the first phase of a compiler. It scans source code character by character, groups them into tokens (keywords, identifiers, literals, symbols), ignores whitespace/comments, and reports lexical errors. These tokens are then passed to the parser.
 
 - Screenshot:
+  
    <img width="364" height="107" alt="1" src="https://github.com/user-attachments/assets/81d0a56f-770d-4afb-8f52-a5df8548bc39" />
 
 
@@ -108,4 +109,5 @@ This folder contains implementations for 15 Compiler Design lab experiments. Eac
 
 - Screenshot:
   
+
 
